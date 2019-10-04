@@ -1,7 +1,6 @@
 # Installing LetsEncrypt Certificate in Amazon Linux 2
 
-##
-Install and enable EPEL
+## Install and enable EPEL
 
 ```
 cd /tmp
